@@ -1,0 +1,109 @@
+{
+  "created_on" : "2020-06-13T13:55:28.382Z",
+  "cancellations" : {
+    "report_id" : "550971864312971318",
+    "report_name" : "This week's cancellations",
+    "total_amount" : 5356381,
+    "total_count" : 4742,
+    "data" : [
+      {
+        "label" : "1/11/2020",
+        "amount" : 53995,
+        "count" : 168
+      },
+      {
+        "label" : "1/18/2020",
+        "amount" : 2178612,
+        "count" : 58
+      },
+      {
+        "label" : "1/25/2020",
+        "amount" : 45616,
+        "count" : 138
+      },
+      {
+        "label" : "2/1/2020",
+        "amount" : 17725,
+        "count" : 43
+      },
+      {
+        "label" : "2/8/2020",
+        "amount" : 64433,
+        "count" : 142
+      },
+      {
+        "label" : "2/15/2020",
+        "amount" : 414604,
+        "count" : 32
+      },
+      {
+        "label" : "3/7/2020",
+        "amount" : 73597,
+        "count" : 27
+      },
+      {
+        "label" : "3/14/2020",
+        "amount" : 781068,
+        "count" : 206
+      }
+    ]
+  },
+  "bookings" : {
+    "report_id" : "00O4M000004qIfBUAU",
+    "report_name" : "Bookings this week",
+    "total_amount" : 289851002,
+    "total_count" : 30384,
+    "data" : [
+      {
+        "label" : "1/11/2020",
+        "amount" : 8326536,
+        "count" : 2980
+      },
+      {
+        "label" : "1/18/2020",
+        "amount" : 6910995,
+        "count" : 2762
+      },
+      {
+        "label" : "1/25/2020",
+        "amount" : 375162,
+        "count" : 1985
+      },
+      {
+        "label" : "2/1/2020",
+        "amount" : 6530138,
+        "count" : 1721
+      },
+      {
+        "label" : "2/8/2020",
+        "amount" : 2650862,
+        "count" : 1781
+      },
+      {
+        "label" : "2/15/2020",
+        "amount" : 1449576,
+        "count" : 1873
+      },
+      {
+        "label" : "2/22/2020",
+        "amount" : 2041494,
+        "count" : 1824
+      },
+      {
+        "label" : "2/29/2020",
+        "amount" : 2016525,
+        "count" : 1744
+      },
+      {
+        "label" : "3/7/2020",
+        "amount" : 54321,
+        "count" : 1800
+      },
+      {
+        "label" : "3/14/2020",
+        "amount" : 2016525,
+        "count" : 1565
+      }
+    ]
+  }
+}

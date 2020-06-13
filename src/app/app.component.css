@@ -1,0 +1,10 @@
+#main {
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+#main h2 {
+  color: #111;
+  font-family: sans-serif;
+  text-align: center;
+}
